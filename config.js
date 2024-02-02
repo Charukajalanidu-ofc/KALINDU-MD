@@ -16,12 +16,12 @@ module.exports = {
   HANDLERS: process.env.PREFIX || '^[.]',
   RMBG_KEY: process.env.RMBG_KEY || false,
   BRANCH: "master",
-  STICKER_DATA: process.env.STICKER_DATA || "EZRA-MD;WhatsAppBot",
-  BOT_INFO: process.env.BOT_INFO || "EZRA-MD;ABHIY;https://i.imgur.com/o4bQB14.jpeg",
-  AUDIO_DATA: process.env.AUDIO_DATA || "BOT;ABHIY;https://i.imgur.com/o4bQB14.jpeg",
+  STICKER_DATA: process.env.STICKER_DATA || "KALINDU-MD;WhatsAppBot",
+  BOT_INFO: process.env.BOT_INFO || "KALINDU-MD;MR-KALINDU;https://telegra.ph/file/d6c84a358e7f19c9933d4.jpg",
+  AUDIO_DATA: process.env.AUDIO_DATA || "KALINDU-MD;MR-KALINDU;https://telegra.ph/file/d6c84a358e7f19c9933d4.jpg",
   ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
-  CAPTION: process.env.CAPTION || "!",
-  WORK_TYPE: process.env.WORK_TYPE || "private",
+  CAPTION: process.env.CAPTION || "$ KALINDU-MD",
+  WORK_TYPE: process.env.WORK_TYPE || "public",
   DATABASE_URL: DATABASE_URL,
   DATABASE:
     DATABASE_URL === "./lib/database.db"
