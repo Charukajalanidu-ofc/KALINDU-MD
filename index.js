@@ -60,7 +60,7 @@ async function Abhiy() {
     const { connection, lastDisconnect } = s;
     if (connection === "connecting") {
       console.log("Ezra");
-      console.log("Connecting to Ezra-XD...!! Please Wait...");
+      console.log("Connecting to kalindu-md...!! Please Wait...");
     }
 
     if (
@@ -99,8 +99,8 @@ async function Abhiy() {
           require("./plugins/" + plugin);
         }
       });
-      console.log(" EZRA XD STARTED🗿🦋");
-      let str = `\n\n\n\n〄 𝑬𝒁𝑹𝑨 𝑿𝑫 𝑰𝑺 𝑺𝑻𝑨𝑹𝑻𝑬𝑫 〄 \n\n\n✰ 𝗩𝗘𝗥𝗦𝗜𝗢𝗡    : ${require("./package.json").version } \n✰ 𝗣𝗟𝗨𝗚𝗜𝗡𝗦   : ${events.commands.length}`;
+      console.log(" KALINDU-MD STARTED 🗿🦋");
+      let str = `\n\n\n\n〄 KALINDU MD STARTED 〄 \n\n\n✰ VERSION    : ${require("./package.json").version } \n✰ PLUGINS   : ${events.commands.length}`;
       conn.sendMessage(conn.user.id, { text: str });
      try {
         conn.ev.on("creds.update", saveCreds);
