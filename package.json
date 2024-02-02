@@ -1,7 +1,7 @@
 {
-  "name": "Ezra-XD",
-  "version": "2.0.1",
-  "description": "Ezra-md simple multi device WhatsApp Bot.",
+  "name": "kalindu-md",
+  "version": "0.0.1",
+  "description": "kalindu-md simple multi device WhatsApp Bot.",
   "main": "./index.js",
   "type": "commonjs",
   "scripts": {
@@ -9,22 +9,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Louis-X0/EZRA-XD.git"
+    "url": "git+https://github.com/MR-KALINDU/KALINDU-MD.git"
   },
   "keywords": [
     "bot",
     "ai",
-    "Ezra",
+    "kalindu",
     "Louis",
     "sparkyapi"
   ],
-  "author": "Louis",
-  "developer": "Louis / Zeta",
+  "author": "mr-kalindu",
+  "developer": "mr-kalindu",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/Louis-X0/EZRA-XD/issues"
+    "url": "https://github.com/MR-KALINDU/KALINDU-MD/issues"
   },
-  "homepage": "https://github.com/Louis-XD/EZRA-XD#readme",
+  "homepage": "https://github.com/MR-KALINDU/KALINDU-MD#readme",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.6.0",
     "@adiwajshing/keyed-db": "^0.2.4",
