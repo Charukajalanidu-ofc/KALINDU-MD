@@ -1,11 +1,11 @@
 {
-  "name": "Ezra-XD",
-  "description": "EZRA Multi Device whatsapp bot",
-  "logo": "https://i.imgur.com/lfcMtYg.jpeg",
+  "name": "KALINDU-MD",
+  "description": "KALINDU-MD Multi Device whatsapp bot",
+  "logo": "https://telegra.ph/file/d6c84a358e7f19c9933d4.jpg",
   "keywords": ["whatsapp"],
-  "repository": "https://github.com/Louis-X0/EZRA-XD",
-  "website": "https://github.com/Louis-X0/EZRA-XD",
-  "success_url": "https://github.com/Louis-X0/EZRA-XD",
+  "repository": "https://github.com/MR-KALINDU/KALINDU-MD",
+  "website": "https://github.com/MR-KALINDU/KALINDU-MD",
+  "success_url": "https://github.com/MR-KALINDU/KALINDU-MD",
   "stack": "container",
   "env": {
     "ANTI_LINK": {
@@ -21,7 +21,7 @@
       "required": false
     },
     "SESSION_ID": {
-      "description": "Ezra-XD session id",
+      "description": "KALINDU-MD session id",
       "required": true
     },
     "LOGS": {
@@ -31,22 +31,22 @@
      "AUDIO_DATA": {
       "description": "audio data , title;artist;image url",
       "required": "false",
-      "value": "𝐄𝐳𝐫𝐚 𝐗𝐃;𝐀𝐛𝐡𝐢𝐢𝐲;https://i.imgur.com/g8iNJNU.jpeg"
+      "value": "KALINDU-MD;KALINDU;https://telegra.ph/file/d6c84a358e7f19c9933d4.jpg"
      },
      "CAPTION": {
       "description": "enter your media caption",
       "required": "false",
-      "value": "\n\n\n\n\n\n\n\n\n\n\n\n𝗘𝘇𝗿𝗮𝗮𝗮𝗮𝗵𝗵𝗵🥹🦋"
+      "value": "$ KALINDU-MD"
     },
        "STICKER_DATA": {
       "description": "Sticker pack name, eg : Ezra;©️Louis-X0",
       "required": "false",
-      "value": "𝐄𝐳𝐫𝐚 𝐗𝐃;©️𝐋𝐨𝐮𝐢𝐬-𝐗𝟎"
+      "value": "KALINDU-MD;©️MR-KALINDU"
     },
        "BOT_INFO": {
       "description": "Bot info : botname;ownername;imageurl;link",
       "required": "false",
-      "value": "𝛯𝛧𝑅𝛥 𝛸𝐷;𝐋𝐨𝐮𝐢𝐬-𝐗𝟎;https://i.imgur.com/o4bQB14.jpeg"
+      "value": "KALINDU-MD;MR-KALINDU;https://telegra.ph/file/d6c84a358e7f19c9933d4.jpg"
     },
      "ALWAYS_ONLINE": {
       "description": "Bot online online : true",
@@ -60,7 +60,7 @@
     "WORK_TYPE": {
       "description": "bot work mode",
       "required": "true",
-      "value": "private"
+      "value": "public"
      },
     "PREFIX": {
       "description": "Example 1: ^[.,!#]  example 2 ^ 👈🏻 Handlers disable",
