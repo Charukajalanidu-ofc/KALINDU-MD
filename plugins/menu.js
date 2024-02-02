@@ -46,7 +46,7 @@ Description: ${i.desc}\`\`\``);
 ┃  ✺ │  *PLATFROM*: linux
 ┃    ╰──────────────
 ╰━━━━━━━━━━━━━━━\n\n  ▎▍▌▌▉▏▎▌▉▐▏▌
-  ▎▍▌▌▉▏▎▌▉▐▏▌\n   𝐇𝐀𝐍𝐍𝐀-𝐗𝐎-𝐌𝐃\n`
+  ▎▍▌▌▉▏▎▌▉▐▏▌\n   KALINDU-MD\n`
 menu += `╭─────────────┈⊷\n`;
 
       let cmnd = [];
@@ -83,7 +83,7 @@ menu += `╭─────────────┈⊷\n`;
       return await client.sendMessage(message.jid,{image: {url: img}, caption: (penu), contextInfo: { externalAdReply: {
 title: config.BOT_INFO.split(';')[0],
 sourceUrl: "",
-mediaUrl: "https://instagram.com/abhiiiiiyh",
+mediaUrl: "https://github.com/MR-KALINDU",
 mediaType: 1,
 showAdAttribution: true,
 renderLargerThumbnail: false,
@@ -133,12 +133,12 @@ command(
       if (desc) menu += `\n│  Use: \`\`\`${desc}\`\`\``;
       menu += `\n│\n`;
     });
-    menu += `╰───────┈┫「 𝐄𝐙𝐑𝐀-𝐗𝐃-𝐁𝐎𝐓 」┣┈────♡`;
+    menu += `╰───────┈┫「 KALINDU-MD 」┣┈────♡`;
     return await message.reply(message.jid, { text: (tiny(menu)), contextInfo: { externalAdReply: {
-title: "𝚵𝚭𝚪𝚫-𝚾𝐃",
+title: "KALINDU-MD",
 sourceUrl: "",
-mediaUrl: "https://instagram.com/abhiiiiiyh",
+mediaUrl: "https://github.com/MR-KALINDU",
 mediaType: 1,
 showAdAttribution: true,
 renderLargerThumbnail: false,
-thumbnailUrl: "https://i.imgur.com/PlDhcfI.jpeg" }} }) })
+thumbnailUrl: "https://telegra.ph/file/d6c84a358e7f19c9933d4.jpg" }} }) })
